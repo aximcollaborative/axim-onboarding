@@ -31,7 +31,7 @@ Check out the Organization Chart
 --------------------------------
 While tCRIL is a smaller organization, there may still be some confusion on who to ask questions to.
 Familiarize yourself with the Organization Chart and it will be easier to ask questions to the right person when the time comes.
-The Organization Chart can be found on `Paylocity <https://access.paylocity.com/>`_, from the header "HR" > "Org Chart".
+If you are a full-time employee, you can access the Organization Chart on `Paylocity <https://access.paylocity.com/>`_ (from the header "HR" > "Org Chart"). If you are a contract employee, ask your manager for a current copy.
 
 Participate in Standups
 -----------------------
