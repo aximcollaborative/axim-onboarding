@@ -20,6 +20,20 @@ using your tCRIL email address. Verify your email address using the link sent
 from Jira. Use the grid of nine dots in the upper left corner to switch between
 Jira and Confluence.
 
+You'll also need to get yourself added to the ``TCRIL`` Atlassian Group.  `File
+an issue`_ to get yourself access.  Sample Text::
+
+    Hello,  I just joined the tCRIL engineering team and would like to be added
+    to the `TCRIL` Atlassian Team.
+
+.. _File an issue: https://github.com/openedx/tcril-engineering/issues/new?assignees=&labels=github-request&template=04-systems-request---uncategorized.yml&title=[GH+Request]+tCRIL+Jira+Group+Access
+
+.. warning::
+
+   Your new level of access will let you change the visibility of pages.
+   Actually doing so is a tricky legal matter though so don't make private
+   pages public unless you've spoken with the team first.
+
 `discuss.openedx.org <https://discuss.openedx.org/>`__
 ------------------------------------------------------
 Set up an account on discuss.openedx.org by selecting the Google Account option
