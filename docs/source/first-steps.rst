@@ -32,7 +32,7 @@ an issue`_ to get yourself access.  Sample Text::
 
    Your new level of access will let you change the visibility of pages.
    Making private pages public is a tricky legal matter though so don't make them
-    public unless you've spoken with the team first. Archiving pages is OK.
+   public unless you've spoken with the team first. Archiving pages is OK.
 
 `discuss.openedx.org <https://discuss.openedx.org/>`__
 ------------------------------------------------------
